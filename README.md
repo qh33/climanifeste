@@ -137,6 +137,7 @@ Choisissons de mettre toute notre énergie au service d'entreprises qui réponde
 * [Maxime Veber](https://github.com/Nek-), développeur
 * [Christophe Villeger](https://twitter.com/VillegerC), développeur back-end
 * [Arnaud Villéger](http://www.mamaisonsurlatoile.fr), webdesigner
+* [Quentin Hervé](https://www.linkedin.com/in/quentinherve/), Head of Growth
 
 ## Sources du manifeste
 
